@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-<?php header( 'Location: /login.php' ) ;  ?>
+<?php header( 'Location: /register.php' ) ;  ?>
 </body>
 </html>

@@ -1,0 +1,21 @@
+{
+  "name": "ganz/oncopage",
+  "description": "oncopage",
+  "minimum-stability": "dev",
+  "license": "ganz",
+  "authors": [
+    {
+      "name": "ganz",
+      "email": "ganzhang@u.noirthwestern.edu"
+    }
+  ],
+  "require": {
+    "ext-mysql": "*"
+  },
+  "require": {
+    "ext-gettext": "*"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+}
