@@ -1,4 +1,4 @@
 # Oncofertility Web app
 - Northwestern University
-- The HABit lab
+- The HABits Lab
 - 2017 Spring
